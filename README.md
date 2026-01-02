@@ -1,4 +1,4 @@
-# 🧠 Math Tools for Neuroscience - Exercises
+# 🧠 Math Tools for Neuroscience - Programming Exercises
 
 [Mainly] Programming solutions for [Mathematical Tools for Neuroscientists](https://ebatty.github.io/MathToolsforNeuroscience/intro.html) by [Ella Batty](https://github.com/ebatty).
 
