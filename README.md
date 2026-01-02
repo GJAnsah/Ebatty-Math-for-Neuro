@@ -1,6 +1,6 @@
 # 🧠 Math Tools for Neuroscience - Exercises
 
-My solutions and exercises for [Mathematical Tools for Neuroscientists](https://ebatty.github.io/MathToolsforNeuroscience/intro.html) by [Ella Batty](https://github.com/ebatty).
+[Mainly] Programming solutions for [Mathematical Tools for Neuroscientists](https://ebatty.github.io/MathToolsforNeuroscience/intro.html) by [Ella Batty](https://github.com/ebatty).
 
 ## 📚 Topics Covered
 - 📐 Linear Algebra & Dynamical Systems
